@@ -1,0 +1,7 @@
+.titulo-principal {
+    height: 100px;
+    border: 1px solid #19a099;
+    width: 50%;
+    background-color: rgba(0, 173, 163, 0.3);
+    text-align: center;
+}
