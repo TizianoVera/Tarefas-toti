@@ -147,8 +147,8 @@
     opacity: 1;
 }
 
-.lista.orden{
-    display: inline-block;
+.lista-orden{
+    display: block;
     top: 1675px;
     left: 61px;
     width: 844px;
@@ -156,6 +156,7 @@
     text-align: left;
     font: normal normal 600 21px/34px Montserrat;
     color: #000;
+    padding-bottom: 33.81px;
     opacity: 1;
 }
 
@@ -191,7 +192,7 @@
 }
 
 .clear{ 
-    display: inline-block;
+    display: flex;
     top: 2730px;
     left: 22px;
     width: 263px;
